@@ -1,3 +1,2 @@
-# HoRNDIS.kext
 
-# Working Monterey,Ventura 
+- Working Monterey,Ventura 
